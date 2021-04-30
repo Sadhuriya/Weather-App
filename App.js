@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     title:{ 
       marginTop: 50, 
       fontSize: 30,
-      fontWeight: '550' 
+      fontWeight: 'bold' 
     },
     cloudImage :{ 
       width: 200, 
